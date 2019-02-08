@@ -292,7 +292,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 802326d7d6f89c34a8a06a62815f99d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  path: https://storage.googleapis.com/crawler_data/OctosAssetTest/1.0.1/test
+  path: 
   assetName: AssetBundleTest
 --- !u!4 &1287416245
 Transform:

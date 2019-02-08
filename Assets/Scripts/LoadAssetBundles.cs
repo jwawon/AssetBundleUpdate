@@ -5,8 +5,7 @@ using UnityEngine.Networking;
 public class LoadAssetBundles : MonoBehaviour
 {
     AssetBundle myLoadedAssetbundle;
-    //Local Path: C:\Users\Jwawon\UnityProject\AssetBundles\test
-    //GCP Path: https://storage.googleapis.com/crawler_data/OctosAssetTest/1.0.1/test
+
     public string path;
     
     public string assetName;
