@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 407139598
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scenes_s4
+      Dependencies: {}
+    Info_1:
+      Name: scenes_s3
+      Dependencies: {}
+    Info_2:
+      Name: scenes
+      Dependencies:
+        Dependency_0: images.hd
+    Info_3:
+      Name: scenes_s1
+      Dependencies: {}
+    Info_4:
+      Name: scenes_s2
+      Dependencies: {}
+    Info_5:
+      Name: images.hd
+      Dependencies: {}
+    Info_6:
+      Name: images.sd
+      Dependencies: {}
+    Info_7:
+      Name: sphear
+      Dependencies: {}
